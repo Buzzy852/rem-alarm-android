@@ -1,7 +1,5 @@
 # rem-alarm-android
 app to find out what you were dreaming during your deepest sleep
-# REM-Alarm Android
-
 Wake yourself at the very start of REM sleep by polling a wearable’s sleep-stage API.
 
 ## Features
@@ -26,5 +24,4 @@ Wake yourself at the very start of REM sleep by polling a wearable’s sleep-sta
 ### Clone & Build
 
 ```bash
-git clone https://github.com/your-username/rem-alarm-android.git
-cd rem-alarm-android
+
